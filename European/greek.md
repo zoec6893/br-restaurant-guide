@@ -6,4 +6,4 @@ Select a restaurant:
 ## [Something Greek](https://www.somethingreekonline.com/)
 ---
 [Back to European](../european.md)
-[Start Over](../home.md) 
+[Start over](../home.md)

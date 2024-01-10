@@ -6,4 +6,4 @@ Select a restaurant:
 ## [Le Sajj](https://lesajjbk.com/)
 ---
 [Back to European](../european.md)
-[Start Over](../home.md)
+[Start over](../home.md)
